@@ -25,7 +25,7 @@ _I use GitHub organizations to separate concerns and manage projects with clarit
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://github.com/JLSS-virtual">
-        <img src="https://avatars.githubusercontent.com/u/171179772?v=4" width="150" alt="JLSS-virtual"/><br/>
+         <img src="https://github.com/JLSS-virtual.png" width="250" alt="JLSS-virtual"/><br/>
         <sub><b>JLSS-virtual</b></sub>
       </a>
     </td>
@@ -51,7 +51,7 @@ _I use GitHub organizations to separate concerns and manage projects with clarit
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://github.com/All-Origin">
-        <img src="https://avatars.githubusercontent.com/u/171228926?v=4" width="150" alt="All-Origin"/><br/>
+        <img src="https://github.com/All-Origin.png" width="250"  alt="All-Origin"/><br/>
         <sub><b>All-Origin</b></sub>
       </a>
     </td>
