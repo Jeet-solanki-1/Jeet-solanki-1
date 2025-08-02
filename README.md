@@ -60,8 +60,9 @@ _I use GitHub organizations to separate concerns and manage projects with clarit
 
 ---
 
-### 🌐 Portfolio: [jeet-solanki-portfolio.netlify.app](https://jeet-solanki-portfolio.netlify.app)
+## My Journey
+💥 I started my journey by changing the color of a webpage using just HTML and CSS.  
+I didn’t sleep for over 7 days — shocked by the magic I had just discovered.  
+Coming from a small town with almost no exposure to computers, it felt like I had touched the future.
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Jeet-solanki-1)
+### Portfolio: [jeet-solanki-portfolio.netlify.app](https://jeet-solanki-portfolio.netlify.app)
