@@ -39,12 +39,12 @@ _I use GitHub organizations to separate concerns and manage projects with clarit
       A collaborative, research-oriented organization focused on pushing boundaries in AI/ML, developer tools, and futuristic systems. This org is open for contributors and represents community-driven innovation.<br/><br/>
       <b>🧩 Contains:</b>
       <ul>
-        <li><b>BrainZ</b> - An AI-first social gamification platform where users train AI avatars that post, compete, and grow. Debates, leaderboards, XP—like a mental Olympics.<br/>
+        <li><b>Junior Ai</b> - An AI-first social gamification platform where users train AI avatars that post, compete, and grow. Debates, leaderboards, XP—like a mental Olympics.<br/>
           • LLM-powered social threads<br/>
           • Freemium tiered AI services<br/>
           • Debating, XP system, and Brainz Olympiads<br/>
           • Clean microservice architecture<br/>
-          • Docs: <a href="https://brainz-docs.netlify.app" target="_blank">brainz-docs.netlify.app</a>
+          • Docs: <a href="https://junior-docs.netlify.app" target="_blank">junior-docs.netlify.app</a>
         </li>
         <li><i>LLM architectures and research tooling coming soon...</i></li>
       </ul>
