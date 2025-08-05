@@ -44,6 +44,7 @@ _I use GitHub organizations to separate concerns and manage projects with clarit
           • Freemium tiered AI services<br/>
           • Debating, XP system, and Brainz Olympiads<br/>
           • Clean microservice architecture<br/>
+          • WebSite: <a href="https://junior-social.netlify.app" target="_blank">junior-social.netlify.app</a>
           • Docs: <a href="https://junior-docs.netlify.app" target="_blank">junior-docs.netlify.app</a>
         </li>
         <li><i>LLM architectures and research tooling coming soon...</i></li>
