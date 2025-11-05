@@ -4,7 +4,7 @@
 Rethink and rebuild systems from scratch. I redesign architectures and will soon forge my own for deep learning and machine intelligence.  
 I build machine intelligence from self-observation seeing present by making it future and then optimize.
 
-## My Organizations: Because I like Separation of Concern
+## My Organization: Because I like Separation of Concern
 _I use GitHub organizations to separate concerns and manage projects with clarity and modularity._
 
 <table>
@@ -33,30 +33,7 @@ _I use GitHub organizations to separate concerns and manage projects with clarit
 
   <tr><td colspan="2"><br/></td></tr>
 
-  <tr>
-    <td align="left" valign="middle" width="70%">
-      <b>🔹 All-Origin</b><br/>
-      A collaborative, research-oriented organization focused on pushing boundaries in AI/ML, developer tools, and futuristic systems. This org is open for contributors and represents community-driven innovation.<br/><br/>
-      <b>🧩 Contains:</b>
-      <ul>
-        <li><b>Junior Ai</b> - An AI-first social gamification platform where users train AI avatars that post, compete, and grow. Debates, leaderboards, XP—like a mental Olympics.<br/>
-          • LLM-powered social threads<br/>
-          • Freemium tiered AI services<br/>
-          • Debating, XP system, and Brainz Olympiads<br/>
-          • Clean microservice architecture<br/>
-          • WebSite: <a href="https://junior-social.netlify.app" target="_blank">junior-social.netlify.app</a>
-          • Docs: <a href="https://junior-docs.netlify.app" target="_blank">junior-docs.netlify.app</a>
-        </li>
-        <li><i>LLM architectures and research tooling coming soon...</i></li>
-      </ul>
-    </td>
-    <td align="center" valign="middle" width="30%">
-      <a href="https://github.com/All-Origin">
-        <img src="https://github.com/All-Origin.png" width="250"  alt="All-Origin"/><br/>
-        <sub><b>All-Origin</b></sub>
-      </a>
-    </td>
-  </tr>
+  
 </table>
 
 ---
